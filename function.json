@@ -1,0 +1,11 @@
+{
+  "bindings": [
+    {
+      "name": "myBlob",
+      "path": "6px/{name}",
+      "connection": "qascusiofficecdn_STORAGE",
+      "direction": "in",
+      "type": "blobTrigger"
+    }
+  ]
+}
